@@ -1,6 +1,6 @@
 # Fish-Detection
 
-![This is an image](/assets/images/electrocat.png)
+![Nemo_detected](https://github.com/HadrienDubois/Nemo-Detection/blob/main/Nemo_test_pic.JPG)
 
 
 
